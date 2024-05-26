@@ -1,1 +1,5 @@
-adding content to file1 in develop branch
+#adding content to file1 in develop branch
+#addition of 2 numbers
+x=5
+y=10
+print(x+y)
